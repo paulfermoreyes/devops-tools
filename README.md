@@ -10,6 +10,9 @@ This repo includes scripts, tools, processes used in DevOps
 ## Install tools
 ### Python
 ```
+# Optional
+sudo apt-get install build-essential
+
 # Install Python environment switcher
 curl https://pyenv.run | bash
 
